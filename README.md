@@ -1,4 +1,4 @@
-Deploy a contract [ControlStructures.sol](https://github.com/SemBont/ControlStructures/blob/main/ControlStructures.sol)
+Deploy a contract [BasicContracts.sol](https://github.com/SemBont/BasicContracts/blob/main/BasicContracts.sol)
 -----------
 Open the [0x075eB9Dc52177Aa3492E1D26f0fDE3d729625d2F](https://sepolia.basescan.org/address/0x075eb9dc52177aa3492e1d26f0fde3d729625d2f)
 ----------
